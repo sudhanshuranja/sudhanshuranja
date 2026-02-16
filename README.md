@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Write a detailed, professional “About Me” section for a GitHub-focused personal website.<br>The person is a Data Science Engineer with strong foundations in Python, DSA, system design, and AI-driven application development.<br>They actively build real-world, startup-grade projects, including AI assistants, automation tools, payment systems, and location-based platforms.<br>Highlight hands-on experience with backend development, APIs, databases, cloud integration, and emerging AI technologies.<br>Emphasize a problem-solving mindset, scalability-first thinking, and product-oriented development approach.<br>Tone should be confident, forward-thinking, technically credible, and impact-driven, suitable for recruiters, collaborators, and open-source contributors.<br>End with a short vision statement about building intelligent systems that solve real-world problems at scale.
+I’m a Data Science Engineer with a strong foundation in Python, Data Structures & Algorithms, System Design, and AI-driven application development. I don’t just study concepts — I actively apply them by building real-world, production-style projects that focus on impact, scalability, and usability.
+I consistently work on startup-grade solutions, including AI assistants, automation tools, biometric payment systems, and location-based platforms, where I take ideas from concept to implementation. My approach is deeply product-oriented — I focus on solving actual problems, not just writing code.
+On the technical side, I have hands-on experience with backend development, building REST APIs, integrating databases, and working with cloud-ready architectures. I’m comfortable designing systems that can scale, handling real-time workflows, and integrating modern AI capabilities into applications. I also explore emerging technologies in AI, automation, and intelligent systems, ensuring my work stays aligned with what the industry is moving toward.
+What defines me most is my problem-solving mindset — I enjoy breaking down complex challenges into clear, efficient solutions. Whether it’s optimizing logic through DSA, designing scalable system flows, or developing AI-powered features, I prioritize clean architecture, performance, and long-term maintainability.
+I’m passionate about building things that feel real — tools that people can actually use, systems that can actually scale, and products that can evolve.
+My vision: to build intelligent systems that solve real-world problems at scale — combining AI, engineering, and product thinking to create technology that truly matters.
 
 
 ## 🌐 Socials:
