@@ -39,10 +39,46 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudhanshuranja&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Overview
+
+![Profile Views](https://komarev.com/ghpvc/?username=sudhanshuranja&label=Profile%20Views&color=blue&style=flat)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudhanshuranja&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📈 GitHub Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuranja&theme=github-dark)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sudhanshuranja&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=sudhanshuranja&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshuranja&layout=compact&theme=radical)
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 AutoPay: The Next-Gen Payment System
+- Face + Iris Recognition based secure payment system  
+- AI-powered authentication  
+- Contactless & next-gen fintech solution  
+
+---
+
+## 🧠 Tech Stack
+- 💻 C++, Python, R  
+- 📊 Data Science, Machine Learning  
+- 📈 Data Analysis & Visualization  
+- ⚙️ Arduino & IoT  
+
+---
+
+## 👀 Visitors Count
+![Visitors](https://visitcount.itsvg.in/api?id=sudhanshuranja&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
