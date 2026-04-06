@@ -37,7 +37,7 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshuranja&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshuranja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=sudhanshuranja&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
