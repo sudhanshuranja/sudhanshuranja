@@ -51,14 +51,6 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sudhanshuranja&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=sudhanshuranja&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshuranja&layout=compact&theme=radical)
-
 ---
 
 ## 🚀 Featured Project
