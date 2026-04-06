@@ -32,6 +32,7 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 ![](https://github-readme-stats.vercel.app/api?username=sudhanshuranja&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sudhanshuranja&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuranja&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=sudhanshuranja&show_icons=true&theme=radical&v=1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudhanshuranja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
