@@ -41,7 +41,7 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ## 💡 Dev Quote
 
-<div align="center">
+<div align="left">
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
@@ -51,7 +51,7 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ## 👁️ Visitors Count
 
-<div align="center">
+<div align="Left">
 
   <img src="https://komarev.com/ghpvc/?username=sudhanshuranja&label=Profile%20Views&color=0e75b6&style=flat" />
 
