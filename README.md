@@ -89,7 +89,4 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ---
 
-## 👀 Visitors Count
-![Visitors](https://komarev.com/ghpvc/?username=sudhanshuranja&label=Profile%20Views&color=blue&style=flat)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
