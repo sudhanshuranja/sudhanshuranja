@@ -36,6 +36,10 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudhanshuranja&layout=compact&theme=radical)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshuranja&show_icons=true&cache_seconds=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuranja&cache_seconds=1)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
