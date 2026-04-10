@@ -33,22 +33,18 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 <div align="center">
 
-  <!-- Main Stats (WORKING) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshuranja&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-  <!-- Streak (WORKING) -->
-  <img src="https://streak-stats.demolab.com?user=sudhanshuranja&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sudhanshuranja&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-<!-- ❌ REMOVED TOP LANGS (THIS IS YOUR PROBLEM) -->
-
 ## 💡 Dev Quote
 
 <div align="center">
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
 </div>
 
 ---
@@ -56,7 +52,9 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 ## 👁️ Visitors Count
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sudhanshuranja&icon=5&color=6" />
+
+  <img src="https://komarev.com/ghpvc/?username=sudhanshuranja&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 
