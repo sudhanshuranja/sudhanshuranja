@@ -70,8 +70,6 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ---
 
----
-
 ## 🚀 Featured Project
 
 ### 🔥 AutoPay: The Next-Gen Payment System
@@ -86,7 +84,5 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 - 📊 Data Science, Machine Learning  
 - 📈 Data Analysis & Visualization  
 - ⚙️ Arduino & IoT  
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
