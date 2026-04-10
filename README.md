@@ -40,6 +40,12 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuranja&cache_seconds=1)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshuranja&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuranja&theme=tokyonight&cache_seconds=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuranja&layout=compact&theme=tokyonight)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
