@@ -31,7 +31,7 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
   <img src="https://streak-stats.demolab.com?user=sudhanshuranja&theme=radical&hide_border=true" height="180"/>
 
